@@ -1,0 +1,26 @@
+h1{
+    color: red;
+    text-align:center;
+    background-color: white;
+}
+
+h2{
+    text-align: center;
+    color: aquamarine;
+    background-color: blueviolet;
+}
+
+h4{
+    color: blue;
+}
+
+p{
+    color: chocolate;
+}
+a{
+    color: red;
+}
+
+body{
+    background-image: url("../images/background02.png")
+}
