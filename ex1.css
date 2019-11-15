@@ -1,0 +1,34 @@
+h1{
+    color: red;
+    text-align:center;
+    background-color: mediumturquoise;
+}
+
+h2{
+    text-align: center;
+    color: aquamarine;
+    background-color: firebrick;
+}
+
+h4{
+    color: blue;
+}
+
+p{
+    color: chocolate;
+}
+a{
+    color: red;
+}
+
+body{
+    background-image: url("../images/background02.png")
+}
+
+table{
+    background-color: deepskyblue;
+}
+
+ol{
+    background-image: url("../images/haikei2.jfif");
+    background-position: 
