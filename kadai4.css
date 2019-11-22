@@ -1,0 +1,24 @@
+body{
+    background-image: url("../images/background02.png")
+}
+h1#a{
+    color: red;
+    text-align:center;
+    background-color: mediumturquoise;
+}
+
+h2#b{
+    color: blue;
+    text-align: center;
+    background-color: chartreuse;
+}
+h2#c{
+    color:white;
+    text-align: center;
+    background-color: black;
+}
+h1#d{
+    color: black;
+    text-align: center;
+    background-color:darkorange;
+}
