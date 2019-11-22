@@ -7,7 +7,7 @@ h1{
 h2{
     text-align: center;
     color: aquamarine;
-    background-color: blueviolet;
+    background-color: firebrick;
 }
 
 h4{
@@ -29,5 +29,6 @@ table{
     background-color: deepskyblue;
 }
 
-li{
-    background-image: url("../images/haikei2.png")
+ol{
+    background-image: url("../images/haikei2.jfif");
+    background-position: 
