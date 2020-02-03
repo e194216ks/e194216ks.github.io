@@ -1,0 +1,39 @@
+div.title{
+    background-color: red;
+    text-align: center;
+    width:1000px;
+    height:40px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+div.b{
+    background-color: aqua;
+    width:1000px;
+    height:30px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+div.p{
+    background-color: orange;
+    margin-bottom: 10px;
+}
+
+div.link{
+    background-color: aqua;
+    width:1000px;
+    height:30px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+div.l{
+    background-color: orange;
+}
+
+body{
+    background-color: black;
+}
